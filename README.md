@@ -7,7 +7,7 @@
 
 - Front-end development using **HTML, Javascript,CSS,Bootstrap,Material UI,React JS**
 - Backend development using **Node Js** , **Nest Js**
-- Machine Learning
+- Machine Learning ,Deeplearning
 - Portfolio site: [Portfolio](arunmurugan.me)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ArunMurugan78&show_icons=true)
