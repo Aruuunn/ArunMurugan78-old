@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://image.freepik.com/free-vector/software-developer-character-programmer-develops-code-illustration_80590-7310.jpg" />
+
 <!--
 **ArunMurugan78/ArunMurugan78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
