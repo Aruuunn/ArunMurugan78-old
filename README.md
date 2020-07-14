@@ -1,4 +1,4 @@
-
+## Arun Murugan 👨‍💻
 [![Linkedin Badge](https://img.shields.io/badge/-Arun_Murugan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ArunMurugan78/)](https://www.linkedin.com/in/arun-murugan-50885717a/) 
 
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
